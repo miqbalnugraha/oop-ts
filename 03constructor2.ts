@@ -11,6 +11,8 @@ class Hewan4 {
 const kucing2 = new Hewan4("Persia", 4);
 console.log(kucing2);
 
+//------------------
+
 class Hewan41 {
     constructor(public nama: string, public kaki: number){}
 }
