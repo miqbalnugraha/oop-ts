@@ -1,4 +1,4 @@
-class Hewan3 {
+class Hewan2 {
     nama: string = "";
     kaki: number = 0;
     mamalia: boolean = false;
@@ -8,7 +8,7 @@ class Hewan3 {
     }
 }
 
-const hewan3 = new Hewan3();
+const hewan3 = new Hewan2();
 console.log(hewan3);
 
 hewan3.nama = "katak";

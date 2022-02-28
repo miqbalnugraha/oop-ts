@@ -1,4 +1,4 @@
-class Hewan5 {
+class Hewan4 {
     nama: string = "";
     kaki: number =0;
 
@@ -7,7 +7,7 @@ class Hewan5 {
     }
 }
 
-class Burung5 extends Hewan5 {
+class Burung5 extends Hewan4 {
     warna: string = "merah";
 }
 
