@@ -22,7 +22,8 @@ ayam4.getKaki();
 ayam5.getKaki();
 Ayam.jalan();
 
-Ayam.kaki = 4; // mengubah static properti 
+// mengubah static properti 
+Ayam.kaki = 4; 
 
 ayam1.getKaki();
 ayam2.getKaki();
