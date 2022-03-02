@@ -79,4 +79,4 @@ class Iphone implements ApplePhone {
 }
 
 const iphone = new Iphone("Iphone SE");
-const game2 = new GameA(iphone);
+const game2 = new GameA(iphone); // tidak bisa dimasukan iphone karena gameA hanya untuk interface AndroidPhone
