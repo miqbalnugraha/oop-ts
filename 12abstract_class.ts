@@ -32,9 +32,9 @@ class Burung12 extends Hewan12 {
     }
 }
 
-const kucing = new Kucing12();
-kucing.bergerak();
-kucing.makan();
+const kucing2 = new Kucing12();
+kucing2.bergerak();
+kucing2.makan();
 
 const burung = new Burung12();
 burung.bergerak();

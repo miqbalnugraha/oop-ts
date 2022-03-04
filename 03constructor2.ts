@@ -8,7 +8,7 @@ class Hewan3 {
     }
 }
 
-const kucing2 = new Hewan3("Persia", 4);
+const kucing3 = new Hewan3("Persia", 4);
 console.log(kucing2);
 
 //------------------
